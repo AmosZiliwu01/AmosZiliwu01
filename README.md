@@ -26,7 +26,7 @@ I'm a passionate **beginner** in web development, focusing on building my skills
 
 ### 📫 How to reach me:
 - **LinkedIn**: [Amos Aleksiato Ziliwu](https://www.linkedin.com/in/amos-aleksiato-ziliwu-028840293/)
-- **Email**: amos.ziliwu@gmail.com
+- **Email**: amosaleksiatoziliwu@gmail.com
 
 ### ⚡ Fun fact:
 I enjoy solving coding challenges, learning new frameworks, and experimenting with different tools to enhance my skills.
