@@ -18,9 +18,9 @@
     - 👯 I’m looking to collaborate on: Beginner-friendly projects, especially in **Laravel** and **web development**.<br>
     - 🛠️ I’m interested in: **Building web apps** that solve real-world problems, particularly in the education space.
   </div>
-  <div class="center">
-  <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 50%; margin-left: 20px;"/>
-  </div>
+<p align="center">
+  <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 50%;"/>
+</p>
 </div>
 
 ### 💬 Ask me about:
