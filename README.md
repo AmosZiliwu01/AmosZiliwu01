@@ -1,5 +1,7 @@
 <h1 align="center">Hi👋, I'm Amos Aleksiato Ziliwu</h1>
-
+<p align="center">
+  <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 50%;"/>
+</p>
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="max-width: 600px; text-align: center;">
     I'm a passionate **beginner** in web development, focusing on building my skills with **Laravel**, **JavaScript**, and other modern web technologies. I enjoy learning and applying new concepts as I grow my abilities in full-stack development.
@@ -18,9 +20,6 @@
     - 👯 I’m looking to collaborate on: Beginner-friendly projects, especially in **Laravel** and **web development**.<br>
     - 🛠️ I’m interested in: **Building web apps** that solve real-world problems, particularly in the education space.
   </div>
-<p align="center">
-  <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 50%;"/>
-</p>
 </div>
 
 ### 💬 Ask me about:
