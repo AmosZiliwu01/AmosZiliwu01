@@ -1,4 +1,4 @@
-## Hi👋, I'm Amos Aleksiato Ziliwu
+##                                                                                       Hi👋, I'm Amos Aleksiato Ziliwu
 
 I am a passionate full-stack developer with a focus on **Laravel** and **JavaScript**. Currently, I’m working on building innovative web applications, including a Flipbook platform that enhances the digital reading experience. My expertise includes both front-end and back-end development, and I love contributing to projects that solve real-world problems.
 
