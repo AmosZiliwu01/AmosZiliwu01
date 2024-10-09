@@ -4,7 +4,6 @@
   <div style="max-width: 600px; text-align: center;">
     I'm a passionate **beginner** in web development, focusing on building my skills with **Laravel**, **JavaScript**, and other modern web technologies. I enjoy learning and applying new concepts as I grow my abilities in full-stack development.
   </div>
-  <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 50%; margin-left: 20px;"/>
 </div>
 
 ### 🌟 About Me:
@@ -19,7 +18,9 @@
     - 👯 I’m looking to collaborate on: Beginner-friendly projects, especially in **Laravel** and **web development**.<br>
     - 🛠️ I’m interested in: **Building web apps** that solve real-world problems, particularly in the education space.
   </div>
+  <div class="center">
   <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 50%; margin-left: 20px;"/>
+  </div>
 </div>
 
 ### 💬 Ask me about:
