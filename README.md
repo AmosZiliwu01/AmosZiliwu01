@@ -22,7 +22,7 @@ I'm a passionate **beginner** in web development, focusing on building my skills
 
 ### 📚 Projects:
 - **Flipbook Web App**: A platform that allows users to read books online using a flipbook interface. (Still in progress 🚧)
-- **Sambisari Coffee Online Ordering System**: An online platform for a coffee shop using a **Click and Collect** model. (Still in progress 🚧)
+- **Sambisari Coffee Online Ordering System**: An online platform for a coffee shop using a **Click and Collect** model. [Check it out here!](#) (Completed ✅)
 
 ### 📫 How to reach me:
 - **LinkedIn**: [Amos Aleksiato Ziliwu](https://www.linkedin.com/in/amos-aleksiato-ziliwu-028840293/)
