@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200"/>
+  <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 20%;"/>
 </p>
 
 <h1 align="center">Hi👋, I'm Amos Aleksiato Ziliwu</h1>
