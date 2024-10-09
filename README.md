@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 50%; margin-left: 20px;"/>
-  <div style="max-width: 600px; text-align: left;">
+  <div style="max-width: 600px; text-align: center;">
     I'm a passionate **beginner** in web development, focusing on building my skills with **Laravel**, **JavaScript**, and other modern web technologies. I enjoy learning and applying new concepts as I grow my abilities in full-stack development.
   </div>
 </div>
