@@ -9,7 +9,7 @@
 </div>
 
 # 💫 About Me:
-- 🔭 I’m currently working on: **A Flipbook Web Application** using **Laravel** and **JavaScript**.<br>- 🌱 I’m currently learning: **React** for front-end development and **full-stack fundamentals**.<br>- 📚 On my learning journey:<br>- **Front-end**: HTML, CSS, JavaScript, Bootstrap (Learning React)<br>- **Back-end**: PHP (Laravel)<br>- **Database**: MySQL, MariaDB<br>- 👯 I’m looking to collaborate on: Beginner-friendly projects, especially in **Laravel** and **web development**.<br>- 🛠️ I’m interested in: **Building web apps** that solve real-world problems, particularly in the education space.
+🔭 I’m currently working on: **A Flipbook Web Application** using **Laravel** and **JavaScript**.<br>- 🌱 I’m currently learning: **React** for front-end development and **full-stack fundamentals**.<br>- 📚 On my learning journey:<br>- **Front-end**: HTML, CSS, JavaScript, Bootstrap (Learning React)<br>- **Back-end**: PHP (Laravel)<br>- **Database**: MySQL, MariaDB<br>- 👯 I’m looking to collaborate on: Beginner-friendly projects, especially in **Laravel** and **web development**.<br>- 🛠️ I’m interested in: **Building web apps** that solve real-world problems, particularly in the education space.
 
 
 ## 🌐 Socials:
