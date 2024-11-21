@@ -22,17 +22,18 @@
   </div>
 </div>
 
-### 💬 Ask me about:
-- **Laravel**: I’m building various projects and continuously improving.
-- **JavaScript basics**: As I work to master front-end and eventually back-end JavaScript.
 
-### 📚 Projects:
-- **Flipbook Web App**: A platform that allows users to read books online using a flipbook interface. (Still in progress 🚧)
-- **Sambisari Coffee Online Ordering System**: An online platform for a coffee shop using a **Click and Collect** model. [Check it out here!](https://sambisaricoffee.tian.my.id/) (Completed ✅)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmosZiliwu01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmosZiliwu01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmosZiliwu01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📫 How to reach me:
-- **LinkedIn**: [Amos Aleksiato Ziliwu](https://www.linkedin.com/in/amos-aleksiato-ziliwu-028840293/)
-- **Email**: amosaleksiatoziliwu@gmail.com
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmosZiliwu01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ⚡ Fun fact:
-I enjoy solving coding challenges, learning new frameworks, and experimenting with different tools to enhance my skills.
+---
+[![](https://visitcount.itsvg.in/api?id=AmosZiliwu01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
