@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Amos Aleksiato Ziliwu</h1>
 <p align="center">
-  <img src="profile.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="profile1.jpg" alt="Amos Aleksiato Ziliwu" width="200" height="200" style="border-radius: 50%;"/>
 </p>
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="max-width: 600px; text-align: center;">
